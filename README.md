@@ -56,7 +56,7 @@ g++ -o sigma_system main.cpp
 
 ---
 
-### 🤝 Hubungi Saya (Connect with Me)
+## 🤝 Hubungi Saya
 
 <p align="center">
   <a href="https://www.linkedin.com/in/achmad-khusnul-yakin" target="_blank">
