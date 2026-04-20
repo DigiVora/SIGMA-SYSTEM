@@ -81,10 +81,3 @@ g++ -o sigma_system main.cpp
   <br>
   <sub>Sistem ini dikembangkan dengan dedikasi oleh <b>Achmad Khusnul Yakin, S.Kom.</b></sub>
 </p>
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Copyright%20%C2%A9%202026-DigiVora%20Studio-orange?style=flat-square" alt="Copyright">
-  <br>
-  <sub>Sistem ini dikembangkan dengan dedikasi oleh <b>Achmad Khusnul Yakin, S.Kom.</b></sub>
-</p>
