@@ -1,4 +1,4 @@
-### 🚀 SIGMA System v1.0
+## 🚀 SIGMA System v1.0
 *Sistem Informasi Grade Mahasiswa Akurat*
 
 <div align="center">
