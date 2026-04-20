@@ -59,7 +59,7 @@ g++ -o sigma_system main.cpp
 ## 🤝 Hubungi Saya
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/achmad-khusnul-yakin](https://www.linkedin.com/in/achmad-khusnul-yakin-25b87a3a2)" target="_blank">
+  <a href="https://www.linkedin.com/in/achmad-khusnul-yakin-25b87a3a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;">
   </a>
   <a href="https://www.instagram.com/digivora.studio" target="_blank">
